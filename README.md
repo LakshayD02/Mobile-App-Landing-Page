@@ -11,7 +11,7 @@ A well-designed landing page is crucial for the success of any mobile app. 🌟 
 
 - **Feature Highlights:** Dedicated sections to describe the app's key features and benefits, often accompanied by icons or visuals. ✨
 
-- **Contact Form :** A form to allow visitors to get in touch with inquiries or feedback. 📧 *(This example includes placeholder data)*
+- **Contact Form :** A form to allow visitors to get in touch with inquiries or feedback. 📧
 
 - **Modern Design:** Clean and contemporary design elements to create a professional and engaging look. 👌
 
